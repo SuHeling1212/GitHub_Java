@@ -1,0 +1,2 @@
+# mod_java
+正在学习java的路上这个项目用来存放minecraft的mod
